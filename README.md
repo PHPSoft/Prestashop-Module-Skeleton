@@ -7,4 +7,4 @@ You can also read my detailed post about it here: http://www.technoreply.com/how
 
 Cheers!
 
-Advanced version of skeleton coming soon!
+Admin controller action example would be nice to have.
