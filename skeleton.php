@@ -1,6 +1,6 @@
 <?php
 
-/*
+/* test 3
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
  * <jevin9@gmail.com> wrote this module. As long as you retain this notice you
