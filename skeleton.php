@@ -52,7 +52,7 @@ class Skeleton extends Module
 			return false;
 		return true;
 	}
-	
+// TODO: add customised hook for admin controller	
 	public function hookDisplayHeader()
 	{
 		$this->context->controller->addCSS($this->_path.'css/style.css', 'all');
